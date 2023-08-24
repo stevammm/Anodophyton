@@ -1,5 +1,5 @@
 <h1> Anodophyton </h1>
-Array feito em python, para um display de sete seguimentos, demonstrar seus números;
+Array feito em python, para um display de sete seguimentos, demonstrar seus números
 #
 
 
