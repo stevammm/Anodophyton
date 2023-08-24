@@ -2,8 +2,10 @@
 Array em python, para um display de sete seguimentos no Wokwi
 
 
-//Código:
+# <h1> Código: </h1>
 
+# Link do Wokwi:
+# https://wokwi.com/projects/373877550709754881
 
 import utime
 from machine import Pin
@@ -35,5 +37,4 @@ while True:
     utime.sleep(0.7)
 
 
-//Link do Wokwi:
-https://wokwi.com/projects/373877550709754881
+
