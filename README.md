@@ -1,6 +1,10 @@
 # Anodophyton
 Array em python, para um display de sete seguimentos no Wokwi
 
+
+//Código:
+
+
 import utime
 from machine import Pin
 
