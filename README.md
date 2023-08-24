@@ -2,9 +2,9 @@
 <h5>Array feito em python, para um display de sete seguimentos, demonstrar seus números.</h5>
 <br>
 Link do Wokwi: <br>
-# https://wokwi.com/projects/373877550709754881
+#https://wokwi.com/projects/373877550709754881
 
- <h4> Código: </h4>
+ <h3> Código: </h3>
  
 import utime <br>
 from machine import Pin <br>
