@@ -6,7 +6,7 @@ Array em python, para um display de sete seguimentos no Wokwi
 
 # Link do Wokwi: <br>
 https://wokwi.com/projects/373877550709754881
-
+#
  <h4> Código: </h4>
  
 import utime <br>
