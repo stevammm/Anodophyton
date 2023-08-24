@@ -1,9 +1,9 @@
 <h1> Anodophyton </h1>
-# Array feito em python, para um display de sete seguimentos, demonstrar seus números
+Array feito em python, para um display de sete seguimentos, demonstrar seus números
 
-Link do Wokwi: <br>
+# Link do Wokwi: <br>
 https://wokwi.com/projects/373877550709754881
-#
+
  <h4> Código: </h4>
  
 import utime <br>
