@@ -7,6 +7,7 @@ https://wokwi.com/projects/373877550709754881
 <hr>
 
  <h3> Código: </h3>
+<hr>
  
 import utime <br>
 from machine import Pin <br>
