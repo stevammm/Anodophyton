@@ -1,5 +1,5 @@
 <h1> Anodophyton </h1>
-<h4>Array feito em python, para um display de sete seguimentos, demonstrar seus números.</h4>
+<h4>Array feito em python, para um display de sete seguimentos demonstrar os números 1,2,3,4,5,6,7,8,9.</h4>
 <br>
 <hr>
 Link do Wokwi: <br>
